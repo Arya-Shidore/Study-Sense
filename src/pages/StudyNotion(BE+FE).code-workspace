@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "StudyNotion(BE+FE)",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/additional files/assets"
+		},
+		{
+			"name": "data",
+			"path": "../../../../Downloads/additional files/data"
+		}
+	],
+	"settings": {}
+}

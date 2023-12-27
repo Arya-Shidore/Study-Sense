@@ -1,0 +1,36 @@
+// const mongoose=require('mongoose');
+
+// const subSectionSchema=new mongoose.Schema({
+//     title:{
+//         type:String,
+//         required:true,
+//         trim:true
+//     },
+//     timeDuration:{
+//         type:String,
+//         required:true,
+//         trim:true
+//     },
+//     description:{
+//         type:String,
+//         required:true,
+//         trim:true
+//     },
+//     videoUrl:{
+//         type:String,
+//         required:true,
+//         trim:true
+//     }
+// });
+
+// module.exports=mongoose.model('SubSection',subSectionSchema);
+const mongoose = require("mongoose");
+
+const SubSectionSchema = new mongoose.Schema({
+	title: { type: String },
+	timeDuration: { type: String },
+	description: { type: String },
+	videoUrl: { type: String },
+});
+
+module.exports = mongoose.model("SubSection", SubSectionSchema);
