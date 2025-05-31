@@ -30,8 +30,10 @@ This project is intended as a learning tool and can be used as a sample project 
   
 ***
 ## Screenshots
-![Screenshot 2023-07-25 210844](https://github.com/himanshu8443/Study-Sense-master/assets/99420590/0cba8d5b-6a47-4721-ac9f-4279107c257e)
-![Screenshot 2023-07-25 211309](https://github.com/himanshu8443/Study-Sense-master/assets/99420590/62c33b56-0bd5-4330-b1db-d41b80d9f69f)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 <details>
   <summary>More screenshots</summary>
   
